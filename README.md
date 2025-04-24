@@ -4,7 +4,7 @@
 
 ## Категории
 - [Рускоязычные инструкции](/instructions.md)
-- [Техническое обслуживание](docs/maintenance.md)
+- [Полезная информация](/useful_information.md)
 - [Безопасность на дороге](docs/safety.md)
 - [Модификация мотоциклов](docs/mods.md)
 
